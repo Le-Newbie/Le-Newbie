@@ -1,5 +1,5 @@
 ## 👾 Welcome to My Journey!
-<span style="color:blue; font-weight:bold;">"Slow motion is better than no motion."</span> 💡
+"Slow motion is better than no motion." 💡
 
 Hi there, I'm Joakeem or Le-Newbie! 👋 I'm on an exciting mission to become a Red Teamer 🛡️⚔️. This is my space to document every step of my journey, share my thoughts, and (hopefully) help others along the way.
 
@@ -8,7 +8,8 @@ Hi there, I'm Joakeem or Le-Newbie! 👋 I'm on an exciting mission to become a 
   - Malware Analysis 💻🧪: Digging into the dark arts of malicious code.
   - Cloud Security ☁️🔐: Exploring the skies to find vulnerabilities.
   - IoT Hacking 📡🤖: Poking around in the connected world.
-🎯 What You'll Find Here
+
+🎯 What You'll Find Here :
   - HackTheBox Write-Ups 📜✨
   - I'll document normal and Sherlock boxes to share solutions and lessons learned.
   - Projects and Experiments 🛠️
