@@ -1,5 +1,5 @@
 ## 👾 Welcome to My Journey !
-« Slow motin is better than no motion ». 💡
+« Slow motion is better than no motion ». 💡
 
 Bonjour, je suis Joakeem ou Le-Newbie ! 👋 Mon objectif est de devenir un Red Teamer 🛡️⚔️. Ici, j'ai pour objectif de documenter chaque étape de mon voyage, partager mes pensées, et (espérons-le) aider les autres en cours de route.
 
