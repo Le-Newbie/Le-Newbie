@@ -1,21 +1,19 @@
-## 👾 Welcome to My Journey!
-"Slow motion is better than no motion." 💡
+## 👾 Welcome to My Journey !
+« Slow motin is better than no motion ». 💡
 
-Hi there, I'm Joakeem or Le-Newbie! 👋 I'm on an exciting mission to become a Red Teamer 🛡️⚔️. This is my space to document every step of my journey, share my thoughts, and (hopefully) help others along the way.
+Bonjour, je suis Joakeem ou Le-Newbie ! 👋 Mon objectif est de devenir un Red Teamer 🛡️⚔️. Ici, j'ai pour objectif de documenter chaque étape de mon voyage, partager mes pensées, et (espérons-le) aider les autres en cours de route.
 
-🔥 My Interests :
-  - Red Teaming 🕵️‍♂️: Breaking things to build stronger defenses.
-  - Malware Analysis 💻🧪: Digging into the dark arts of malicious code.
-  - Cloud Security ☁️🔐: Exploring the skies to find vulnerabilities.
-  - IoT Hacking 📡🤖: Poking around in the connected world.
+🔥 Mes centres d'intérêt :
+  - Red Teaming 🕵️‍♂️ : Casser les choses pour construire des défenses plus solides.
+  - Cloud Security ☁️🔐 : Explorer le cloud pour trouver des vulnérabilités.
+  - IoT Hacking 📡🤖 : Fouiner dans le monde connecté.
 
 🎯 What You'll Find Here :
   - HackTheBox Write-Ups 📜✨
-  - I'll document normal and Sherlock boxes to share solutions and lessons learned.
-  - Projects and Experiments 🛠️
-  - From malware reverse-engineering to cloud penetration testing, it's all going here.
-  - Insights and Reflections 🤔💬
-  - Sharing thoughts, wins, and failures—because growth isn't always a straight line.
+  - Je documenterai les boîtes normales et Sherlock pour partager les solutions et les leçons apprises.
+  - Projets et expériences 🛠️
+  - Perspectives et réflexions 🤔💬💬🤔💬💬
+  - Partage de réflexions, de victoires et d'échecs - parce que la croissance n'est pas toujours une ligne droite.
 
 
 <!---
