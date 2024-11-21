@@ -9,8 +9,7 @@ Bonjour, je suis Joakeem ou Le-Newbie ! 👋 Mon objectif est de devenir un Red 
   - IoT Hacking 📡🤖 : Fouiner dans le monde connecté.
 
 🎯 What You'll Find Here :
-  - HackTheBox Write-Ups 📜✨
-  - Je documenterai les boîtes normales et Sherlock pour partager les solutions et les leçons apprises.
+  - Je documenterai les boîtes normales et Sherlock pour partager les solutions et les leçons apprises 📜✨
   - Projets et expériences 🛠️
   - Perspectives et réflexions 🤔💬💬🤔💬💬
   - Partage de réflexions, de victoires et d'échecs - parce que la croissance n'est pas toujours une ligne droite.
