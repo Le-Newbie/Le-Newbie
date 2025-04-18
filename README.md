@@ -1,10 +1,10 @@
-👋 Hi, I’m @LeRedMojo FR/ENG
+👋 Hi, I’m @Le-RedMojo FR/ENG
 
 💻I'll use this page to document my journey from a complete beginner to a red teamer.
 
-👀 I’m interested in malware development, evasion and enterprise .
+👀 I'm interested in malware development, evasion and enterprise infrastructure.
 
-🌱 Slow motion is better than no motion
+🌱 Slow motion is better than no motion.
 
 
 <!---
